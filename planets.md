@@ -1,10 +1,19 @@
 ## planets
+
 This file contains all the planets
+
 ## mercury
+
 ## venus
-## earth
+
+## earth(our planet)
+
 ## mars
+
 ## jupiter
+
 ## saturn
+
 ## uranus
+
 ## neptune
